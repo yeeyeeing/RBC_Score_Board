@@ -1,0 +1,2 @@
+C:\Users\ChanT\Downloads\RBCScoreBoard2022-master\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.AssemblyReference.cache
+C:\Users\ChanT\Downloads\RBCScoreBoard2022-master\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.SuggestedBindingRedirects.cache
